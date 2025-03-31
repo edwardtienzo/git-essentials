@@ -1,4 +1,3 @@
-# git-essentials
+Git Essentials
 
-# 
-# Removed the third above message to try out git diff
+Made changes for a pull request. 
