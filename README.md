@@ -1,3 +1,4 @@
 # git-essentials
 
-# Added for changes made in Github for testing.
+# 
+# Removed the third above message to try out git diff
